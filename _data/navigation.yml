@@ -12,7 +12,7 @@ main:
     url: /talks/
 
   - title: "Awards"
-    url: /year-archive/
+    url: /awards.yml/
 
   - title: "Resume"
     url: /cv/
