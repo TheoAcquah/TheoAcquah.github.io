@@ -2,7 +2,7 @@
   title: "1st Place: Ethical Excellence"
   event: "Fall 2023 Ethics Case Competition (Daniel Fund Ethics Initiative)"
   organization: "University of Northern Colorado"
-  url: "images/DanielFund.jpg"
+  url: "DanielFund.jpg"  # Only the filename, if it's in the /images directory
 
 
 - year: 2022
