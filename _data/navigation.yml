@@ -1,22 +1,18 @@
-# main links links
 main:
-    - title: "Project and Service"
+  - title: "Project and Service"
     url: /portfolio/
 
   - title: "Publications"
     url: /publications/
 
   - title: "Teaching"
-    url: /teaching/    
-  
- - title: "Conference"
-    url: /talks/  
- 
+    url: /teaching/
+
+  - title: "Conference"
+    url: /talks/
+
   - title: "Awards"
     url: /year-archive/
-    
+
   - title: "Resume"
     url: /cv/
-    
- # - title: "Guide"
- #   url: /markdown/
