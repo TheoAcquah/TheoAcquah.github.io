@@ -1,3 +1,14 @@
+
+
+ - year: 2023-2024
+  title: "Honors Convocation - Outstanding Student and Academic Excellence Awards"
+  event: "Honors Convocation"
+  organization: "University of Northern Colorado, College of Education & Behavioral Sciences"
+  image_paths: 
+    - "honors1.jpg"
+    - "hon1.jpg"
+    - "hon2.jpg"
+
 - year: 2023
   title: "1st Place: Ethical Excellence"
   event: "Fall 2023 Ethics Case Competition (Daniel Fund Ethics Initiative)"
@@ -5,9 +16,5 @@
   url: "DanielFund.jpg"  # Only the filename, if it's in the /images directory
 
 
-- year: 2022
-  title: "Innovative Research Award"
-  event: "Annual Research Symposium"
-  organization: "Tech University"
-  url: "https://example.com/research/awards"
+
 
