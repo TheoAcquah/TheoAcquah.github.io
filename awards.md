@@ -10,8 +10,11 @@ permalink: /awards/
   <li>
     <strong>{{ award.year }}</strong>: {{ award.title }}, {{ award.event }} ({{ award.organization }})
     <br>
-    <img src="{{ site.baseurl }}/images/{{ award.url }}" alt="Award Image">
+    {% if award.image_paths %}
+      {% for image_path in award.image_paths %}
+        <img src="{{ site.baseurl }}/images/{{ image_path }}" alt="{{ award.title }} Image" style="max-width: 100%; height: auto;">
+      {% endfor %}
+    {% endif %}
   </li>
 {% endfor %}
 </ul>
-
