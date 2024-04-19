@@ -14,7 +14,9 @@ redirect_from:
 {% for award in site.data.awards %}
   <li>
     <strong>{{ award.year }}</strong>: <span style="color: blue;">{{ award.title }}</span>, {{ award.event }}
-    ({{ award.organization }}) | <span style="color: blue;"><a href="{{ award.url }}">Award Details</a></span>
+    ({{ award.organization }})
+    <br>
+    <img src="{{ award.image_path }}" alt="Award Image" style="max-width:100%; height:auto;">
   </li>
 {% endfor %}
 </ul>
