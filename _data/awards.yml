@@ -17,4 +17,20 @@
 
 
 
+- year: 2025
+  title: "Hutchinson-Lahman-Larkins Award"
+  event: "Graduate Research Evening"
+  organization: "University of Northern Colorado"
+  image_paths:
+    - "HLLA.jpg"
+
+- year: 2025
+  title: "ASRM Recognition – Graduate Research"
+  event: "Research Recognition – Applied Statistics & Research Methods"
+  organization: "University of Northern Colorado"
+  image_paths:
+    - "ASRM1.jpg"
+    - "ASRM2.jpg"
+
+
 
